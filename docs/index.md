@@ -4,4 +4,4 @@ Z-hide combines the best of a Freitag back and a Cycle Hoop bike box. It's a wea
 
 ## Quick
 
-![darrenLeaving.m4v](Leaving in 20 seconds)
+![](./darrenLeaving.m4v)
