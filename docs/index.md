@@ -5,21 +5,21 @@ Z-hide combines the best of a Freitag back and a Cycle Hoop bike box. It's a wea
 ## Quick
 
  <video width="640" height="auto" controls>
-  <source src="darrenLeaving.m4v" type="video/m4v">
+  <source src="darrenLeaving.m4v" type="video/m4v"></source>
   Your browser does not support the video tag.
 </video> 
 
 ## Dry
 
  <video width="640" height="auto" controls>
-  <source src="hose.m4v" type="video/m4v">
+  <source src="hose.m4v" type="video/m4v"></source>
   Your browser does not support the video tag.
 </video> 
 
 ## Luggable
 
  <video width="640" height="auto" controls>
-  <source src="ph_mount.m4v" type="video/m4v">
+  <source src="ph_mount.m4v" type="video/m4v"></source>
   Your browser does not support the video tag.
 </video> 
 
