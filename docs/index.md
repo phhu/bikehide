@@ -5,3 +5,11 @@ Z-hide combines the best of a Freitag back and a Cycle Hoop bike box. It's a wea
 ## Quick
 
 ![](./darrenLeaving.m4v)
+
+## Dry
+
+![](./hose.m4v)
+
+## Luggable
+
+![](./ph_mount.m4v)
