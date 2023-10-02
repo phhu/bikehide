@@ -1,14 +1,14 @@
 # BIKEHIDE
 
-A [Freitag](https://www.freitag.ch) bag for your bike? A [Bikehanger](https://cyclehoop.com/product-category/bikehangars/) without the hanger?
+A [Freitag](https://www.freitag.ch) bag for your bike? A [Bikehanger](https://cyclehoop.com/product-category/bikehangars/) without the hanger? Or a [bicycle cover](https://www.amazon.com/s?k=bicycle+cover) that doesn't become a soggy windbeaten faff once you take it off on a winter's morning?
 
-A bikehide is weatherproof bicycle cover made from recycled truck tarpaulin that mounts on a fence outside your home, and flips open in seconds.
+A Bikehide is recycled truck tarpaulin bicycle cover that mounts on a fence. 
 
-No faff, no planning permission, no wet bum.
+Low faff, no planning permission, no wet bum.
 
 ![](cover.jpg)
 
-## No faff | Quick | Flappable | Fast | Rapid | Speedy | 
+## Low faff | Quick | Flappable | Fast | Rapid | Speedy | 
 
  <video width="640" height="auto" controls>
   <source src="darrenLeaving.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
