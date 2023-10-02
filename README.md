@@ -41,6 +41,6 @@ lock it
 flop it
 
 
-flap it
+flip it | sock it
 unlock it
-rock it
+rock it | sock it
