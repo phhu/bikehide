@@ -1,4 +1,4 @@
-# bikehide
+# BIKEHIDE
 
 A [Freitag](https://www.freitag.ch) bag for your bike? A [Bikehanger](https://cyclehoop.com/product-category/bikehangars/) without the hanger?
 
@@ -6,8 +6,7 @@ A bikehide is weatherproof bicycle cover made from recycled truck tarpaulin that
 
 No faff, no planning permission, no wet bum.
 
-
-![](./cover.jpg)
+![](cover.jpg)
 
 ## No faff | Quick | Flappable | Fast | Rapid | Speedy | 
 
@@ -29,5 +28,3 @@ No faff, no planning permission, no wet bum.
   <source src="ph_mount.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
   Your browser does not support the video tag.
 </video> 
-
-(updated)
