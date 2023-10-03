@@ -20,13 +20,6 @@ No faff, no planning permission, no wet bum.
   Your browser does not support the video tag.
 </video> 
 
-## No wet bum <!--| Dry | Weatherproof | Glasgowable | Robust | Tough | Unflappable | Streetwise | --> 
-
- <video width="640" height="auto" controls>
-  <source src="hose.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
-  Your browser does not support the video tag.
-</video> 
-
 ## No planning permission <!--| Luggable | Movable | Shiftable | Semi-permanent | Motile | Wrapable | Liminal -->
 
  <video width="640" height="auto" controls>
@@ -34,6 +27,14 @@ No faff, no planning permission, no wet bum.
   Your browser does not support the video tag.
 </video> 
 
+## No wet bum <!--| Dry | Weatherproof | Glasgowable | Robust | Tough | Unflappable | Streetwise | --> 
+
+ <video width="640" height="auto" controls>
+  <source src="hose.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
+  Your browser does not support the video tag.
+</video> 
+
 ## Enquiries
 
-By email to: [bikehide@proton.me](mailto://bikehide@proton.me)
+Please email [bikehide@proton.me](mailto://bikehide@proton.me)
+
