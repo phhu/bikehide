@@ -3,6 +3,8 @@ title: BIKEHIDE
 layout: default
 ---
 
+# [BIKEHIDE](https://www.bikehide.org)
+
 A [Freitag](https://www.freitag.ch) bag for your bike? A [Bikehanger](https://cyclehoop.com/product-category/bikehangars/) without the hanger? Or just a [bicycle cover](https://www.amazon.com/s?k=bicycle+cover) that doesn't become a soggy windbeaten faff once you take it off on a winter's morning?
 
 A BIKEHIDE is recycled truck tarpaulin bicycle cover that mounts on a fence and stays there while you go riding. 
