@@ -11,21 +11,21 @@ No faff, no planning permission, no wet bum.
 
 ![](cover.jpg)
 
-## No faff | Quick | Flappable | Fast | Rapid | Speedy | 
+## No faff <!-- | Quick | Flappable | Fast | Rapid | Speedy | -->
 
  <video width="640" height="auto" controls>
   <source src="darrenLeaving.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
   Your browser does not support the video tag.
 </video> 
 
-## No wet bum | Dry | Weatherproof | Glasgowable | Robust | Tough | Unflappable | Streetwise | 
+## No wet bum <!--| Dry | Weatherproof | Glasgowable | Robust | Tough | Unflappable | Streetwise | --> 
 
  <video width="640" height="auto" controls>
   <source src="hose.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
   Your browser does not support the video tag.
 </video> 
 
-## No planning permission | Luggable | Movable | Shiftable | Semi-permanent | Motile | Wrapable | Liminal 
+## No planning permission <!--| Luggable | Movable | Shiftable | Semi-permanent | Motile | Wrapable | Liminal -->
 
  <video width="640" height="auto" controls>
   <source src="ph_mount.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
@@ -34,4 +34,4 @@ No faff, no planning permission, no wet bum.
 
 ## Enquiries
 
-By email to: bikehide@proton.me
+By email to: [bikehide@proton.me](mailto://bikehide@proton.me)
