@@ -36,5 +36,5 @@ No faff, no planning permission, no wet bum.
 
 ## Enquiries
 
-Please email [bikehide@proton.me](mailto://bikehide@proton.me)
+Please email bikehide /at/ proton.me
 
