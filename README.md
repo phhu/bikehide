@@ -44,3 +44,8 @@ flop it
 flip it | sock it
 unlock it
 rock it | sock it
+
+
+ <!-- | Quick | Flappable | Fast | Rapid | Speedy | -->
+ <!--| Luggable | Movable | Shiftable | Semi-permanent | Motile | Wrapable | Liminal -->
+ <!--| Dry | Weatherproof | Glasgowable | Robust | Tough | Unflappable | Streetwise | --> 
