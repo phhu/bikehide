@@ -8,7 +8,7 @@ layout: default
         position: relative; 
         padding-bottom: 56.25%;
         overflow: hidden;
-        max-width: 100%;
+        max-width: 640px;
         height: auto;
 } 
 
