@@ -35,4 +35,4 @@ Please email bikehide /at/ proton.me
 
 ## Logo
 
-<img src="bikehideLogo.pn" width ="640" height="auto" alt="bikehide logo"/>
+<img src="bikehideLogo.png" width ="640" height="auto" alt="bikehide logo"/>
