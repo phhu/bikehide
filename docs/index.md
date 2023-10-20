@@ -56,3 +56,5 @@ Please email bikehide /at/ proton.me
 ## Logo
 
 <img src="bikehideLogo.png" width ="640" height="auto" alt="bikehide logo"/>
+
+<!-- UK registered design number 6316324 -->
