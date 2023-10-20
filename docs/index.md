@@ -33,5 +33,6 @@ No faff, no planning permission, no wet bum.
 
 Please email bikehide /at/ proton.me
 
-![](bikehideLogo.png)
+## Logo
 
+<img src="bikehideLogo.pn" width ="640" height="auto" alt="bikehide logo"/>
