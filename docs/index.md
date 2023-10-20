@@ -11,7 +11,7 @@ A BIKEHIDE is recycled truck tarpaulin bicycle cover that mounts on a fence and 
 
 No faff, no planning permission, no wet bum.
 
-![](cover.jpg)
+![](cover.jpg =640x)
 
 ## No faff
 
