@@ -11,11 +11,13 @@ A BIKEHIDE is recycled truck tarpaulin bicycle cover that mounts on a fence and 
 
 No faff, no planning permission, no wet bum.
 
-![](cover.jpg =640x)
+<img src="cover.jpg" width ="640" height="auto" alt="A bikehide hiding a bike"/>
 
 ## No faff
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/23lsDLwW4ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>
+
+<br />
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0x8hBxCfehc?si=tCqnWebcv8Etfcap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
