@@ -15,24 +15,15 @@ No faff, no planning permission, no wet bum.
 
 ## No faff
 
-
 <iframe width="640" height="auto" src="http://www.youtube.com/embed/23lsDLwW4ag" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
 
 ## No planning permission 
 
-<video width="640" height="auto" controls>
-  <source src="ph_mount.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
-  Your browser does not support the video tag.
-</video> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFwiU9t_jMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>
 
 ## No wet bum 
 
-<video width="640" height="auto" controls>
-  <source src="hose.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></source>
-  Your browser does not support the video tag.
-</video> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQpXgP1NpUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>
 
 ## Enquiries
 
