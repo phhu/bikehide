@@ -3,6 +3,26 @@ title: BIKEHIDE
 layout: default
 ---
 
+<style>
+  .embed-container { 
+        position: relative; 
+        padding-bottom: 56.25%;
+        overflow: hidden;
+        max-width: 100%;
+        height: auto;
+} 
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed { 
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+}
+</style>
+
 # BIKEHIDE
 
 A [Freitag](https://www.freitag.ch) bag for your bike? A [Bikehanger](https://cyclehoop.com/product-category/bikehangars/) without the hanger? Or just a [bicycle cover](https://www.amazon.com/s?k=bicycle+cover) that doesn't become a soggy windbeaten faff once you take it off on a winter's morning?
@@ -15,19 +35,19 @@ No faff, no planning permission, no wet bum.
 
 ## No faff
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/23lsDLwW4ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/23lsDLwW4ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
 <br />
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0x8hBxCfehc?si=tCqnWebcv8Etfcap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/0x8hBxCfehc?si=tCqnWebcv8Etfcap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## No planning permission 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/fFwiU9t_jMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/fFwiU9t_jMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## No wet bum 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/tQpXgP1NpUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/tQpXgP1NpUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## Enquiries
 
