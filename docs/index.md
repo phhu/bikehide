@@ -9,7 +9,7 @@ layout: default
         padding-bottom: 56.25%;
         overflow: hidden;
         max-width: 100%;
-        max-height: auto;
+        height: auto;
 } 
 
 .embed-container iframe,
@@ -35,19 +35,19 @@ No faff, no planning permission, no wet bum.
 
 ## No faff
 
-<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/23lsDLwW4ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/23lsDLwW4ag?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
 <br />
 
-<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/0x8hBxCfehc?si=tCqnWebcv8Etfcap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/0x8hBxCfehc?si=tCqnWebcv8Etfcap?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## No planning permission 
 
-<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/fFwiU9t_jMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/fFwiU9t_jMs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## No wet bum 
 
-<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/tQpXgP1NpUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/tQpXgP1NpUM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## Enquiries
 
