@@ -8,8 +8,8 @@ layout: default
         position: relative; 
         padding-bottom: 56.25%;
         overflow: hidden;
-        max-width: 640px;
-        height: auto;
+        max-width: 100%;
+        max-height: auto;
 } 
 
 .embed-container iframe,
