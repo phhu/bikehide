@@ -49,8 +49,10 @@ No faff, no planning permission, no wet bum.
 
 <div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/tQpXgP1NpUM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
-## Enquiries-
+## Enquiries
 Please email bikehide /at/ proton.me
+
+---
 
 <img src="bikehideLogo.png" width ="640" height="auto" alt="bikehide logo"/>
 
