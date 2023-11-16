@@ -48,4 +48,6 @@ rock it | sock it
 
  <!-- | Quick | Flappable | Fast | Rapid | Speedy | -->
  <!--| Luggable | Movable | Shiftable | Semi-permanent | Motile | Wrapable | Liminal -->
- <!--| Dry | Weatherproof | Glasgowable | Robust | Tough | Unflappable | Streetwise | --> 
+ <!--| Dry | Weatherproof | Glasgowable | Robust | Tough | Unflappable | 
+ 
+ Streetwise | --> 
