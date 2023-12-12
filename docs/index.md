@@ -56,13 +56,13 @@ Please use this form:
 <div id="contact">
   <form action="https://formspree.io/f/xpzgvnbj" method="POST">
     <input type="hidden" name="_subject" value="bikehide website enquiry" />
-    Email: 
+    Your email address: 
     <br />
-    <input type="email" name="_replyto" placeholder="Your email" size="60" required />
+    <input type="email" name="_replyto" size="60" required />
     <br />
     Message:
     <br />
-    <textarea name="message" placeholder="Your message" cols="60" rows="6" required></textarea>
+    <textarea name="message"  cols="60" rows="6" required></textarea>
     <br />
     <button type="submit">Send</button>
   </form>
