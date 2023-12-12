@@ -62,7 +62,7 @@ Please use this form:
     <br />
     Message:
     <br />
-    <textarea name="message" placeholder="Your message" cols="63" rows="6" required></textarea>
+    <textarea name="message" placeholder="Your message" cols="60" rows="6" required></textarea>
     <br />
     <button type="submit">Send</button>
   </form>
