@@ -67,7 +67,7 @@ Please use this form:
     <button type="submit">Send</button>
   </form>
 </div>
-
+<br />
 Alternatively you could send an email to: bikehide /at/ proton.me
 
 ---
