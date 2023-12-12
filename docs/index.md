@@ -50,7 +50,17 @@ No faff, no planning permission, no wet bum.
 <div class="embed-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/tQpXgP1NpUM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## Enquiries
-Please email bikehide /at/ proton.me
+
+Please use the form below, or else email bikehide /at/ proton.me
+
+<div id="contact">
+  <form action="https://formspree.io/f/xpzgvnbj" method="POST">
+    <input type="hidden" name="_subject" value="bikehide website enquiry" />
+    <input type="email" name="_replyto" placeholder="Your email" required />
+    <textarea name="message" placeholder="Type your message" required></textarea>
+    <button type="submit">Send</button>
+  </form>
+</div>
 
 ---
 
