@@ -51,7 +51,7 @@ No faff, no planning permission, no wet bum.
 
 ## Enquiries
 
-Please use the form below, or else send an email to: bikehide /at/ proton.me
+Please use this form:
 
 <div id="contact">
   <form action="https://formspree.io/f/xpzgvnbj" method="POST">
@@ -67,6 +67,8 @@ Please use the form below, or else send an email to: bikehide /at/ proton.me
     <button type="submit">Send</button>
   </form>
 </div>
+
+Alternatively you could send an email to: bikehide /at/ proton.me
 
 ---
 
