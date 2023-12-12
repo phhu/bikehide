@@ -58,11 +58,11 @@ Please use the form below, or else send an email to: bikehide /at/ proton.me
     <input type="hidden" name="_subject" value="bikehide website enquiry" />
     Email: 
     <br />
-    <input type="email" name="_replyto" placeholder="Your email" size="80" required />
+    <input type="email" name="_replyto" placeholder="Your email" size="60" required />
     <br />
     Message:
     <br />
-    <textarea name="message" placeholder="Your message" cols="100" rows="6" required></textarea>
+    <textarea name="message" placeholder="Your message" cols="63" rows="6" required></textarea>
     <br />
     <button type="submit">Send</button>
   </form>
