@@ -58,11 +58,11 @@ Please use this form:
     <input type="hidden" name="_subject" value="bikehide website enquiry" />
     Your email address: 
     <br />
-    <input type="email" name="_replyto" size="60" required />
+    <input style="max-width:95%" type="email" name="_replyto" size="60" required />
     <br />
     Message:
     <br />
-    <textarea name="message"  cols="60" rows="6" required></textarea>
+    <textarea style="max-width:95%" name="message"  cols="60" rows="6" required></textarea>
     <br />
     <button type="submit">Send</button>
   </form>
