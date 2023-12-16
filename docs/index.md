@@ -75,3 +75,18 @@ Alternatively you could send an email to: bikehide /at/ proton.me
 <img src="bikehideLogo.png" width ="640" height="auto" alt="bikehide logo"/>
 
 <!-- UK registered design number 6316324 -->
+
+<!--
+
+<form action="https://api.web3forms.com/submit" method="POST">
+    <input type="hidden" name="access_key" value="37d8e535-6ec8-4c67-9849-3a005c026534">
+    Name: <input type="text" name="name" required>
+    Email: <input type="email" name="email" required>
+    Msg: <textarea name="message" required></textarea>
+    <div class="h-captcha" data-captcha="true"></div>
+    <button type="submit">Submit Form</button>
+</form>
+
+<script src="https://web3forms.com/client/script.js" async defer></script>
+
+-->
